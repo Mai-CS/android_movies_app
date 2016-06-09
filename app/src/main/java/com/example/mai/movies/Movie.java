@@ -1,7 +1,5 @@
 package com.example.mai.movies;
 
-import java.io.Serializable;
-
 public class Movie {
 
     private String id;

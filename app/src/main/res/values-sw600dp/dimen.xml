@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="text_subtitles">28sp</dimen>
+    <dimen name="text_body">24sp</dimen>
+    <dimen name="cover_height">300dp</dimen>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Movies</string>
+
+    <string name="action_favorites">Favorites</string>
+    <string name="action_most_popular">Most popular</string>
+    <string name="action_highest_rated">Highest rated</string>
+    <string name="action_mark_favorite">Mark as Favorite</string>
+    <string name="action_share">Share</string>
+
+    <string name="trailers">\u0020Trailers\u0020</string>
+    <string name="overview">Overview</string>
+    <string name="reviews">Reviews</string>
+</resources>

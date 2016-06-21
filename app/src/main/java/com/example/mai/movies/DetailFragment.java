@@ -196,7 +196,7 @@ public class DetailFragment extends Fragment {
     }
 
     //insert movie into database
-    public void insetFavorite() {
+    public void InsertFavorite() {
         try {
             MoviesDbHelper moviesDbHelper = new MoviesDbHelper(getActivity());
             moviesDbHelper.insertFavorite(MovieFragment.movie);
@@ -236,7 +236,7 @@ public class DetailFragment extends Fragment {
 
             case R.id.action_favorite:
                 if (!MovieFragment.movie.isFavorite()) {
-                    insetFavorite();
+                    InsertFavorite();
                     MovieFragment.movie.setIsFavorite(true);
                     item.setIcon(R.drawable.ic_favorite_white_48px);
                 } else {

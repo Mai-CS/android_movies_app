@@ -18,7 +18,7 @@ Most of us can relate to kicking back on the couch and enjoying a movie with fri
 <a href="https://github.com/bumptech/glide">Glide</a><br>
 <a href="https://inthecheesefactory.com/blog/correct-imageview-adjustviewbounds-with-adjustable-imageview/en">AdjustableImageView</a>
 
-#How to use the source code
+# How to use the source code
 In order for the project to work:<br>
 first, you must get your own api key from <a href ="https://www.themoviedb.org/documentation/api">The Movie Database</a> API website<br>
 second, add the key to your app "gradle.properties" file as shown below<br>

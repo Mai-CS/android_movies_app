@@ -13,6 +13,9 @@ Most of us can relate to kicking back on the couch and enjoying a movie with fri
 <img src="http://s33.postimg.org/8a7ijzkhb/device_2016_06_08_175318.png"/><br>
 <img src="http://s33.postimg.org/n2191vsdr/device_2016_06_08_181647.png"/>
 
+# Tools & Technologies
+Movies Database API, AsyncTask, SQLite Database
+
 # Libraries #
 <a href="http://square.github.io/picasso/">Picasso</a><br>
 <a href="https://github.com/bumptech/glide">Glide</a><br>

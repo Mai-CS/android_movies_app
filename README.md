@@ -27,6 +27,8 @@ first, you must get your own api key from <a href ="https://www.themoviedb.org/d
 second, add the key to your app "gradle.properties" file as shown below<br>
 <img src="http://s33.postimg.org/m39jnt14f/Capture.png" />
 
+<a href="https://drive.google.com/open?id=0ByN8UVrN9463d2Zqa2lZZG9kbEE"><img src="http://www.apkdisc.com/style/apkdiscad2.png" width="150" height="80" /></a> 
+
 # License #
 <pre><code>
    Copyright 2016 Mai Ahmed

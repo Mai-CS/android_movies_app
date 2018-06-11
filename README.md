@@ -10,8 +10,8 @@ Most of us can relate to kicking back on the couch and enjoying a movie with fri
 </ul>
 
 # Screens #
-<img src="http://s33.postimg.org/8a7ijzkhb/device_2016_06_08_175318.png"/><br>
-<img src="http://s33.postimg.org/n2191vsdr/device_2016_06_08_181647.png"/>
+<img src="https://image.ibb.co/bHvq7o/device_2016_06_08_175318.png" width="50%" height="50%"/><br>
+<img src="https://image.ibb.co/goNsL8/device_2016_06_08_181647.png" width="50%" height="50%"/>
 
 # Tools & Technologies
 Movies Database API, AsyncTask, SQLite Database
@@ -27,7 +27,7 @@ first, you must get your own api key from <a href ="https://www.themoviedb.org/d
 second, add the key to your app "gradle.properties" file as shown below<br>
 <img src="http://s33.postimg.org/m39jnt14f/Capture.png" />
 
-<a href="https://drive.google.com/open?id=0ByN8UVrN9463d2Zqa2lZZG9kbEE"><img src="http://dimitrology.com/wp-content/uploads/2017/02/download-apk.png" width="150" height="80" /></a> 
+<a href="https://drive.google.com/open?id=0ByN8UVrN9463d2Zqa2lZZG9kbEE"><img src="https://image.ibb.co/h45q7o/android_download.png" width="25%" height="25%"/></a> 
 
 # License #
 <pre><code>

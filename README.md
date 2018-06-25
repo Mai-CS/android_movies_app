@@ -9,7 +9,7 @@ Most of us can relate to kicking back on the couch and enjoying a movie with fri
 <li>Sharing option for trailers</li>
 </ul>
 
-# Screens #
+# Screenshots #
 <img src="https://image.ibb.co/bHvq7o/device_2016_06_08_175318.png" width="50%" height="50%"/><br>
 <img src="https://image.ibb.co/goNsL8/device_2016_06_08_181647.png" width="50%" height="50%"/>
 

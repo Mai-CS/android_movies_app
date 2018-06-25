@@ -24,8 +24,7 @@ Movies Database API, AsyncTask, SQLite Database
 # How to use the source code
 In order for the project to work:<br>
 first, you must get your own api key from <a href ="https://www.themoviedb.org/documentation/api">The Movie Database</a> API website<br>
-second, add the key to your app "gradle.properties" file as shown below<br>
-<img src="http://s33.postimg.org/m39jnt14f/Capture.png" />
+second, add the key to your app "gradle.properties" file.
 
 <a href="https://drive.google.com/open?id=0ByN8UVrN9463d2Zqa2lZZG9kbEE"><img src="https://image.ibb.co/h45q7o/android_download.png" width="25%" height="25%"/></a> 
 
